@@ -1,10 +1,10 @@
 import 'react-native-gesture-handler';
-import React from 'react';
-import { View } from 'react-native'
+import * as React from 'react';
+import { View,Text } from 'react-native'
 const App = () => {
   return (
     <View>
-
+      <Text>hi v39 -__-</Text>
     </View>
   )
 }
